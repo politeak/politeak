@@ -1,4 +1,4 @@
-baseURL = 'https://politeak.github.io/'
+baseURL = 'https://politeak.github.io/politeak/'
 locale = 'de-ge'
 title = 'PoliTEAk'
 theme = 'PaperMod'
