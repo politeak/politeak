@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/test-post/</link>
       <pubDate>Sat, 04 Apr 2026 21:53:04 +0200</pubDate>
       <guid>http://localhost:1313/posts/test-post/</guid>
-      <description>&lt;p&gt;draft : false&lt;/p&gt;</description>
+      <description></description>
     </item>
   </channel>
 </rss>
