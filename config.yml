@@ -1,4 +1,4 @@
-baseURL: 'http://localhost:1313/politeak/'
+baseURL: 'https://politeak.github.io/politeak/'
 languageCode: en-us 
 title: PoliTEAk
 theme: PaperMod
