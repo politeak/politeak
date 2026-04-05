@@ -5,7 +5,7 @@
     <link>http://localhost:1313/politeak/categories/</link>
     <description>Recent content in Categories on PoliTEAk</description>
     <generator>Hugo</generator>
-    <language>de-ge</language>
+    <language>en-us</language>
     <atom:link href="http://localhost:1313/politeak/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
